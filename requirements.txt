@@ -1,0 +1,4 @@
+biopython==1.83
+pandas==2.2.2
+matplotlib==3.9.0
+ipywidgets==8.2.2
